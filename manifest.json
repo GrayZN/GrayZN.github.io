@@ -1,0 +1,15 @@
+{
+  "name": "Sufjan Vesuvius",
+  "short_name": "Sufjan",
+  "description": "舒肤佳,日常",
+  "display": "standalone",
+  "start_url": "/",
+  "theme_color": "#00b7ff",
+  "background_color": "#00b7ff",
+  "icons": [
+    {
+      "src": "./favicon.ico",
+      "size": "128x128 48x48"
+    }
+  ]
+}
