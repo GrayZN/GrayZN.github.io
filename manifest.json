@@ -4,7 +4,7 @@
   "description": "舒肤佳,日常",
   "display": "standalone",
   "start_url": "/",
-  "theme_color": "#00b7ff",
+  "theme_color": "#ffffff",
   "background_color": "#00b7ff",
   "icons": [
     {
