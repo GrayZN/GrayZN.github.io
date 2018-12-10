@@ -10,6 +10,11 @@
     {
       "src": "./favicon.ico",
       "sizes": "128x128 48x48"
+    },
+    {
+      "src": "./img/Sufjan/YelloBalloon.jpg",
+      "sizes": "960x1280",
+      "type": "image/jpg"
     }
   ]
 }
