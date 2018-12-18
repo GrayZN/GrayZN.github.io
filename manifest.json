@@ -4,9 +4,8 @@
   "description": "日常，舒肤佳",
   "display": "standalone",
   "start_url": "/",
-  "theme_color": "#ffffff",
-  "background_color": "#ffffff",
-  "orientation": "portrait",
+  "theme_color": "#7ECEDF",
+  "background_color": "#7ECEDF",
   "icons": [
     {
       "src": "./favicon.ico",
@@ -14,7 +13,7 @@
     },
     {
       "src": "./img/Sufjan/Angel.png",
-      "sizes": "128x128",
+      "sizes": "144x144",
       "type": "image/png"
     }
   ]
