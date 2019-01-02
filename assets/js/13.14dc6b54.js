@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{300:function(n,t,e){"use strict";e.r(t);var s=e(1),i=Object(s.a)({},function(){var n=this.$createElement,t=this._self._c||n;return t("div",{staticClass:"content"},[t("movie-index")],1)},[],!1,null,null,null);t.default=i.exports}}]);
