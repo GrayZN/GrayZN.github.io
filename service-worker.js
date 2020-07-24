@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "5291b8d8cbd5efbbe2651c0285e79c22"
+    "revision": "0b1b2c2dc6dae3f148da27e98c3f54b3"
   },
   {
     "url": "assets/css/0.styles.19974481.css",
@@ -66,24 +66,24 @@ self.__precacheManifest = [
     "revision": "2698f29efe3677e232c99fd07f01de17"
   },
   {
-    "url": "assets/js/14.b3950a18.js",
-    "revision": "4c98d422e56107c8da8b302473aa17f0"
+    "url": "assets/js/14.a00e0ebc.js",
+    "revision": "4995f3b7b09e73747c4fc7642862cbdc"
   },
   {
     "url": "assets/js/15.495d4f41.js",
     "revision": "1a7e7e6fb5cb74354486bf3024ccfa26"
   },
   {
-    "url": "assets/js/16.8ab73b02.js",
-    "revision": "b167a65f9cb52059709991bd1f29d36d"
+    "url": "assets/js/16.9cd26820.js",
+    "revision": "58286ed0db7485a2697ad1ffe8b130b6"
   },
   {
-    "url": "assets/js/17.5570c93e.js",
-    "revision": "b452b5e24febd3951b529b7fc87b9b32"
+    "url": "assets/js/17.040c6094.js",
+    "revision": "aa3d7b42ca42b56a59e9a424e75e8032"
   },
   {
-    "url": "assets/js/18.d2930a0c.js",
-    "revision": "f914f1d4ddf38815d150cda0b8a8999c"
+    "url": "assets/js/18.6717db0d.js",
+    "revision": "6be5f54cbf5ea27529684e450d387271"
   },
   {
     "url": "assets/js/19.3cc3dcc6.js",
@@ -102,16 +102,16 @@ self.__precacheManifest = [
     "revision": "a24daa6186c8cfbd51053d15abf13ff6"
   },
   {
-    "url": "assets/js/22.0babde83.js",
-    "revision": "ab3cdecebffde1cfd85c271653194b98"
+    "url": "assets/js/22.cdb45c9a.js",
+    "revision": "5b101e1409ebfc44822bfdbe47b04242"
   },
   {
-    "url": "assets/js/23.56d39cc9.js",
-    "revision": "213218689c3b62e31e5efa258a132caf"
+    "url": "assets/js/23.d815d963.js",
+    "revision": "66c981f84e73f30a1c6789f60f93d2a3"
   },
   {
-    "url": "assets/js/24.a62def38.js",
-    "revision": "b507c6a70ac314add31765340e266229"
+    "url": "assets/js/24.0619720f.js",
+    "revision": "cefa7491946048d193ee66c2a07b89fc"
   },
   {
     "url": "assets/js/25.afab5274.js",
@@ -146,24 +146,24 @@ self.__precacheManifest = [
     "revision": "a02eb63fb6a087f835399bcadc386921"
   },
   {
-    "url": "assets/js/app.e6161216.js",
-    "revision": "67ca4927d6ad27327ad3bd1e1f007ebf"
+    "url": "assets/js/app.64d99bfd.js",
+    "revision": "52990db0ac73228dbf9c013fd2d7238f"
   },
   {
     "url": "dev/index.html",
-    "revision": "bf8610cab02aa78234bb5faeefeafe76"
+    "revision": "8bcca3f099881e118c37fb11771f7295"
   },
   {
     "url": "dev/ShadowAbout.html",
-    "revision": "fe3b92bd1fa956918af3ad80d9b42d0a"
+    "revision": "9faa73ce0e0b0e4e2e08b57be3d678ce"
   },
   {
     "url": "dev/VueRouter-KeepAlive.html",
-    "revision": "88b65b3b945724b4042bc77a3342667a"
+    "revision": "f256dd1de4532b445fe61f7ff453d4a3"
   },
   {
     "url": "dev/WebDesignSkills.html",
-    "revision": "cf1d4bcbcfc308eeca4b5d723755f10e"
+    "revision": "d73e1d4054ebb8593dd85b27317f5d47"
   },
   {
     "url": "img/Movie/CMBYN.jpg",
@@ -226,6 +226,10 @@ self.__precacheManifest = [
     "revision": "675b0d4eb216934d256890726e84c46d"
   },
   {
+    "url": "img/Sufjan/Boat2019.jpg",
+    "revision": "b2853c87be31211b217af0b1b2900bf9"
+  },
+  {
     "url": "img/Sufjan/CivicDuty.jpg",
     "revision": "8aac8380cc340a6bec405c23f83bce01"
   },
@@ -242,6 +246,10 @@ self.__precacheManifest = [
     "revision": "224986dda2ac02d101aa3751e1a86b0a"
   },
   {
+    "url": "img/Sufjan/HAPPY-LOVING-DAY.jpg",
+    "revision": "383c0849aea24b550a979c4abdd5d915"
+  },
+  {
     "url": "img/Sufjan/HappyHolidays.jpg",
     "revision": "fda10eab9663cbdca5c4680440036aa1"
   },
@@ -256,6 +264,22 @@ self.__precacheManifest = [
   {
     "url": "img/Sufjan/LanderWY-Office.jpg",
     "revision": "b00f5955e42ff19997a6537171beb36e"
+  },
+  {
+    "url": "img/Sufjan/Landscape/1.jpg",
+    "revision": "692ec897f9f5595f4ee60513ae964423"
+  },
+  {
+    "url": "img/Sufjan/Landscape/2.jpg",
+    "revision": "f518ab315420703bdd4c2ccbd1fbb09e"
+  },
+  {
+    "url": "img/Sufjan/Landscape/3.jpg",
+    "revision": "57bb8ec202a41b00aabb08694370dd4a"
+  },
+  {
+    "url": "img/Sufjan/Landscape/4.png",
+    "revision": "b59412c31ac84ce078b1ce9689467c30"
   },
   {
     "url": "img/Sufjan/LonelyManOfWinter.jpg",
@@ -294,8 +318,16 @@ self.__precacheManifest = [
     "revision": "6e25edc9df6f605cd5ed5cddc8987c6f"
   },
   {
+    "url": "img/Sufjan/TheAscension/CP1.jpg",
+    "revision": "34dcd804d5a7f199be94636f03046421"
+  },
+  {
     "url": "img/Sufjan/TheAvalancheVinyl.jpg",
     "revision": "75d6b9608ca88d6c666e48c3e2072fd4"
+  },
+  {
+    "url": "img/Sufjan/TheSunOnAWinterMorn.jpg",
+    "revision": "cc646b9df95f79027bbb171a73d4cced"
   },
   {
     "url": "img/Sufjan/TheWorldIsAbundant.jpg",
@@ -308,6 +340,10 @@ self.__precacheManifest = [
   {
     "url": "img/Sufjan/Truth.jpg",
     "revision": "57655dd80eeb2ebad87bb79c1e64af2a"
+  },
+  {
+    "url": "img/Sufjan/Uncle1.jpg",
+    "revision": "44fef06ba81457f67f8039f30dee2e0c"
   },
   {
     "url": "img/Sufjan/Vote!.gif",
@@ -327,47 +363,47 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "1cef1e122d288c436f4de9d8d8d541dc"
+    "revision": "972e8418f80bf9385cc1dbe67644fe91"
   },
   {
     "url": "movie/HAWAII.html",
-    "revision": "cb1851cb136974c308d2abb0760e05c9"
+    "revision": "c667a0f1e3e321032e1ca3cd4d060737"
   },
   {
     "url": "movie/index.html",
-    "revision": "77abfdbd1c4974c2e950dfdf5e605b18"
+    "revision": "83e392178e6429c0f2a9ec0f78f4cd98"
   },
   {
     "url": "music/index.html",
-    "revision": "10ea97ac67b9a29044df7a282425cc22"
+    "revision": "cbea4f548bdde4bc3effe615fecb30b4"
   },
   {
     "url": "music/St.Vincent/MASSEDUCTION.html",
-    "revision": "abfed3c770b378423e34194900bad5aa"
+    "revision": "ccd653fe7fe5acc675ca95c9563e8c56"
   },
   {
     "url": "music/SufjanStevens/CarrieAndLowell.html",
-    "revision": "1abeed5ace35ee097628cc349c0b2e4d"
+    "revision": "486f96c5dbd8dba5be2e5beaa1b030eb"
   },
   {
     "url": "music/SufjanStevens/CarrieAndLowellLive.html",
-    "revision": "266043db2ad1ef09c73b51eb57fe3fb6"
+    "revision": "eab3263b746195903844ef15a9bef70d"
   },
   {
     "url": "music/SufjanStevens/TheGreatestGift.html",
-    "revision": "f6b51fc0c2f7914bf1148775952e3d90"
+    "revision": "23a9f28b53a55a014c1a2fbe868da4a3"
   },
   {
     "url": "music/TaylorSwift/1989.html",
-    "revision": "17d0bb6c61295de56d9202666b993a25"
+    "revision": "51dc0455064d5dad704832f0e551a1a2"
   },
   {
     "url": "sufjan/index.html",
-    "revision": "b90674882ddf66493e46d0b4a82d60e4"
+    "revision": "0cefe596e1ee58869a9f6423ffc2ae15"
   },
   {
     "url": "website/index.html",
-    "revision": "7d6fdffe509b9076b07bf8000ed911fd"
+    "revision": "b0f3b434823cf887793cffd24a4b9620"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
