@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "451ff21ca9db3116319a216e10dd2aa1"
+    "revision": "2a73cd1f1aeab93ebb55e7b26defdbc6"
   },
   {
-    "url": "assets/css/0.styles.c3d310f5.css",
-    "revision": "00bbdd0b884b0efb6143ca7dafa702a2"
+    "url": "assets/css/0.styles.e8a7a238.css",
+    "revision": "d896a8d2f983e671b0f7c0b2c12bcd9c"
   },
   {
     "url": "assets/fonts/element-icons.535877f5.woff",
@@ -50,12 +50,12 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.27ccff55.js",
-    "revision": "6a521171930167ee194b3a4629df19a9"
+    "url": "assets/js/10.3f79e161.js",
+    "revision": "0d92bb175c8a8d6d7f56f67701ee5363"
   },
   {
-    "url": "assets/js/11.cc09fa52.js",
-    "revision": "b77313b3b8c127679a63d0b8fd2ade29"
+    "url": "assets/js/11.25f7ce77.js",
+    "revision": "a9b03e397c1a4e605db82528b0cc4826"
   },
   {
     "url": "assets/js/12.d8fcdafe.js",
@@ -70,40 +70,40 @@ self.__precacheManifest = [
     "revision": "f0425b7e82304d4cda77aef5e69ad35e"
   },
   {
-    "url": "assets/js/15.1be609d6.js",
-    "revision": "74441bc609ad7d9abc55400635f6bb7e"
+    "url": "assets/js/15.c38258ca.js",
+    "revision": "423055108ed36455af226488ea2dcedf"
   },
   {
-    "url": "assets/js/16.1afb4bfe.js",
-    "revision": "667e0b9e2a2e55fa2ac97402ccb32b5e"
+    "url": "assets/js/16.99a82bd6.js",
+    "revision": "6a672ab157b144c818330dfd367b8287"
   },
   {
-    "url": "assets/js/17.708b78a1.js",
-    "revision": "f6ef7b49dad920b650daef14b17da8a2"
+    "url": "assets/js/17.18d819e3.js",
+    "revision": "c4338f0fd72a02909b8ce85e9e546dcb"
   },
   {
-    "url": "assets/js/18.81d21724.js",
-    "revision": "8174ed2bffb44828f52555732324d9cb"
+    "url": "assets/js/18.46fd04e9.js",
+    "revision": "07c831eb7252406b81c44d08a87a6a91"
   },
   {
-    "url": "assets/js/19.4cb19eb5.js",
-    "revision": "6b637500bfa32468a2a333c3bbc82b67"
+    "url": "assets/js/19.ac883ecf.js",
+    "revision": "2392f4a724cba444ea5cad605196a5db"
   },
   {
     "url": "assets/js/2.9ffc007d.js",
     "revision": "e660af594a22e6f167b63430dc449da4"
   },
   {
-    "url": "assets/js/20.ecd9e091.js",
-    "revision": "1667b4d842acc00afd86103ffd73b6af"
+    "url": "assets/js/20.07c12619.js",
+    "revision": "0facd2c1b438694e9d7e512a70af07e7"
   },
   {
-    "url": "assets/js/21.afa1a859.js",
-    "revision": "247cd352411938f0b2ea46255335e048"
+    "url": "assets/js/21.fbd97179.js",
+    "revision": "75e470949a8dc3b63b6d0854656f2c78"
   },
   {
-    "url": "assets/js/22.1edd8caa.js",
-    "revision": "a677c9462df265296b5bb910315e6732"
+    "url": "assets/js/22.63492d09.js",
+    "revision": "4bf7d79633b3e371a538f1bffd9db859"
   },
   {
     "url": "assets/js/23.b5df58f5.js",
@@ -122,12 +122,12 @@ self.__precacheManifest = [
     "revision": "1db4d794a21b04156090941c6caf3c28"
   },
   {
-    "url": "assets/js/4.026be2cb.js",
-    "revision": "d0d924b4468b2cf3e80d91872693d892"
+    "url": "assets/js/4.9d3ec80b.js",
+    "revision": "93c7db60d27bcc1bb8b8213c15acf37e"
   },
   {
-    "url": "assets/js/5.f8c55cd8.js",
-    "revision": "397a742bc6e89547c4ae666f01589f27"
+    "url": "assets/js/5.431218cc.js",
+    "revision": "e70f92841de80fa63522f9bf9130e9ff"
   },
   {
     "url": "assets/js/6.04ad8ac7.js",
@@ -138,32 +138,32 @@ self.__precacheManifest = [
     "revision": "45703d6dd7b65ede900b6cabc39ffe53"
   },
   {
-    "url": "assets/js/8.414fd179.js",
-    "revision": "936b551288a43d33fd114f35da34344f"
+    "url": "assets/js/8.2e38ef01.js",
+    "revision": "1cfa8181fa1a986cb6e5ffa22aa5081a"
   },
   {
     "url": "assets/js/9.8ddc1b60.js",
     "revision": "7a1fdecda9344cf8159bf6536896c9d5"
   },
   {
-    "url": "assets/js/app.7eabb35e.js",
-    "revision": "11209bdab241a2ee05bcdbd7e3a2f968"
+    "url": "assets/js/app.715e2593.js",
+    "revision": "1e51dc41bf59d8b857f924a6a80ec27d"
   },
   {
     "url": "dev/index.html",
-    "revision": "4aeae7e34297e1bb835edd1ed5193309"
+    "revision": "94458e7f5caf7906c9963e04e927b7e3"
   },
   {
     "url": "dev/ShadowAbout.html",
-    "revision": "b0a76aa4f06c4d9685f036f86d34934c"
+    "revision": "0fe9162403cfa1cc99443ae57904f7e1"
   },
   {
     "url": "dev/VueRouter-KeepAlive.html",
-    "revision": "6c1285ef461a848a6349fda71eaa52b2"
+    "revision": "f3feac099bbf315830d44397f7bb73d6"
   },
   {
     "url": "dev/WebDesignSkills.html",
-    "revision": "d8f9cc3b7d4859f19549b6311842f0e5"
+    "revision": "bb371a6821caddc26b3596719833fe3e"
   },
   {
     "url": "img/Movie/CMBYN.jpg",
@@ -363,47 +363,47 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "535e14bee11e1b4bc77427cd3183a852"
+    "revision": "0f72e2f111d65465caf8973f0ff4607f"
   },
   {
     "url": "movie/HAWAII.html",
-    "revision": "99657e262af48e74dd356598fe9d63a1"
+    "revision": "8e7d95bbe81618e2b66a8ddd39a3980e"
   },
   {
     "url": "movie/index.html",
-    "revision": "83c539d2be0546cc2d59dcfb0a09d7a2"
+    "revision": "66a4116e2814cefc1541ee50e0fe3578"
   },
   {
     "url": "music/index.html",
-    "revision": "62f5b15a2016cf82929cf925db15453f"
+    "revision": "f7780989c5d016d42a0beb4b3a5f32f6"
   },
   {
     "url": "music/St.Vincent/MASSEDUCTION.html",
-    "revision": "87abe03cb518fabdd60ffcf0715565b7"
+    "revision": "65ebb53e8abddc862b5e5e4c61dc8f9b"
   },
   {
     "url": "music/SufjanStevens/CarrieAndLowell.html",
-    "revision": "23028ff158078409e38bf36aa30eae2d"
+    "revision": "f8fd3f4a5dfe6d66a3dae0cd33de1b6c"
   },
   {
     "url": "music/SufjanStevens/CarrieAndLowellLive.html",
-    "revision": "6715978f5c0d4ec82605d21bbc3db1e1"
+    "revision": "b058929725ad98285b5f0d1d8f7eee0b"
   },
   {
     "url": "music/SufjanStevens/TheGreatestGift.html",
-    "revision": "e6874938ae636b0eaaac1d5c991e2fe1"
+    "revision": "e02362c5b74b15a6af60edd45bfa4c06"
   },
   {
     "url": "music/TaylorSwift/1989.html",
-    "revision": "6d57d4edaff8302e9b75ed576ae0060f"
+    "revision": "0a2473800ee7bad6e14e62f0f915b0ef"
   },
   {
     "url": "sufjan/index.html",
-    "revision": "0d2852c484fd8db4fd91e9385f716655"
+    "revision": "aae1057d287cf4a33d1141c38b06da16"
   },
   {
     "url": "website/index.html",
-    "revision": "25fad322bd73fa9b88c1e5a9792a7428"
+    "revision": "acad363f2336ce6bb77b2785b80cfcae"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
